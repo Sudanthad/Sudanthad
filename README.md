@@ -40,8 +40,8 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudanthad&langs_count=8&theme=dark" alt=sudanthad /> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudanthad&show_icons=true&count_private=true&theme=dark)](https://github.com/sudanthad)
+ <img align="left" height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudanthad&show_icons=true&count_private=true&theme=dark)](https://github.com/sudanthad)" alt=sudanthad />
+
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sudanthad&show_icons=true&locale=en&theme=dark" alt="sudanthad" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sudanthad&theme=dark" alt="sudanthad" /></p>
