@@ -40,7 +40,12 @@
 </p>
 
 <h3 align="left">Stars</h3>
- <img align="left" height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudanthad&show_icons=true&count_private=true&theme=dark)](https://github.com/sudanthad)" alt=sudanthad />
+<img 
+  align="left" 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudanthad&layout=compact&langs_count=8&hide_border=true&theme=dark&exclude_repo=repo-name-1,repo-name-2&hide=Jupyter%20Notebook,HTML" 
+  alt="sudanthad's most used languages" 
+/>
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sudanthad&show_icons=true&locale=en&theme=dark" alt="sudanthad" /></p>
 
